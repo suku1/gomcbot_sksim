@@ -1,4 +1,5 @@
 # **sksimの中身**
+はずかしい
 
 ## Requires
 [gomcbot](https://github.com/Tnze/gomcbot)  
