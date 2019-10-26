@@ -18,4 +18,4 @@ MIT
 
 ## Author
 
-[suku1](https://github.com/suku1)
+[sksim](https://github.com/suku1)
