@@ -12,3 +12,10 @@
  - **data.json**  
    このファイルからID, パスワード, サーバーアドレス, ポート番号が読み込まれる
  
+## Licence
+
+MIT
+
+## Author
+
+[suku1](https://github.com/suku1)
